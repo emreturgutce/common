@@ -1,7 +1,7 @@
 {
-  "name": "common",
+  "name": "@et-ticketing/common",
   "version": "1.0.0",
-  "description": "@et-ticketing/common",
+  "description": "common packages",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
