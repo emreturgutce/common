@@ -1,6 +1,6 @@
 {
   "name": "@et-ticketing/common",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "common packages",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
